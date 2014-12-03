@@ -1,0 +1,14 @@
+PODS:
+  - SIABase64 (0.1.0)
+
+DEPENDENCIES:
+  - SIABase64 (from `../`)
+
+EXTERNAL SOURCES:
+  SIABase64:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SIABase64: 59ac64a1073a7bf1270cfa45a2c88d02d34ef691
+
+COCOAPODS: 0.34.4

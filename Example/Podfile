@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'SIABase64', :exclusive => true do
+  pod "SIABase64", :path => "../"
+
+  
+end
